@@ -1,0 +1,56 @@
+REPORTE DE MÉTRICAS POR ZONA Y MODELO
+==================================================
+
+ZONA: Zone1
+--------------------------------------------------
+
+Modelo: Linear Regression
+  MAE: 3345.14
+  RMSE: 4214.07
+  R2: 0.6483
+
+Modelo: Ridge Regression
+  MAE: 3345.19
+  RMSE: 4214.06
+  R2: 0.6483
+
+Modelo: Decision Tree
+  MAE: 905.32
+  RMSE: 1411.03
+  R2: 0.9606
+
+ZONA: Zone2
+--------------------------------------------------
+
+Modelo: Linear Regression
+  MAE: 2624.50
+  RMSE: 3312.53
+  R2: 0.5934
+
+Modelo: Ridge Regression
+  MAE: 2624.53
+  RMSE: 3312.51
+  R2: 0.5934
+
+Modelo: Decision Tree
+  MAE: 632.14
+  RMSE: 1038.21
+  R2: 0.9601
+
+ZONA: Zone3
+--------------------------------------------------
+
+Modelo: Linear Regression
+  MAE: 3285.66
+  RMSE: 4152.81
+  R2: 0.6045
+
+Modelo: Ridge Regression
+  MAE: 3285.65
+  RMSE: 4152.81
+  R2: 0.6045
+
+Modelo: Decision Tree
+  MAE: 604.63
+  RMSE: 1052.99
+  R2: 0.9746
